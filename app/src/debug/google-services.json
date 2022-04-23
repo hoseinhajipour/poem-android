@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "894256139143",
+    "project_id": "quizmoiz",
+    "storage_bucket": "quizmoiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894256139143:android:21f69a34b18c03118ce122",
+        "android_client_info": {
+          "package_name": "com.hajigames.quizmoiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894256139143-rum9busfg82ps609749448hg1pfhmhv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNB1y63OuE5d_CKnFjenACm6I2zp4KUDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894256139143-rum9busfg82ps609749448hg1pfhmhv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894256139143:android:9ba296dbcd95f6d48ce122",
+        "android_client_info": {
+          "package_name": "org.quaestio.kotlinconvertedwebview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894256139143-rum9busfg82ps609749448hg1pfhmhv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNB1y63OuE5d_CKnFjenACm6I2zp4KUDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894256139143-rum9busfg82ps609749448hg1pfhmhv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
